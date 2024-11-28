@@ -1,0 +1,4 @@
+
+git clone https://github.com/Vijayalakshmi1016/task1_BXP.git
+git branch -a
+git pull --all
